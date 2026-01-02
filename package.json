@@ -1,0 +1,14 @@
+{
+  "name": "rufyio-connect",
+  "version": "1.0.0",
+  "description": "Rufyio Connect - Patreon integration backfill script",
+  "main": "backfill-patreon.js",
+  "scripts": {
+    "backfill:patreon": "node backfill-patreon.js"
+  },
+  "dependencies": {
+    "patreon": "^0.4.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
